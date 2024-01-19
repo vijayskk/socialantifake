@@ -1,5 +1,5 @@
 # Fake Predictor
-
+A Python program to predict an account is fake or not.
 ## Running the program
 Run the following commands one by one 
 
